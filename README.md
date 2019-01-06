@@ -1,2 +1,1 @@
-Criterion Collection Film Data
-
+## A JSON database of all Criterion Collection movies
